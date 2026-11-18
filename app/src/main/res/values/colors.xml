@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pink Theme Colors -->
+    <color name="pink_primary">#EC4899</color>
+    <color name="pink_primary_dark">#DB2777</color>
+    <color name="pink_gradient_start">#F472B6</color>
+    <color name="pink_gradient_end">#E11D48</color>
+    <color name="pink_bg">#FFF0F5</color>
+    <color name="pink_card_bg">#FCE7F3</color>
+    <color name="pink_subtle">#FDF2F8</color>
+    <color name="pink_text_dark">#831843</color>
+    <color name="pink_text_medium">#BE185D</color>
+    <color name="pink_stroke">#FBCFE8</color>
+</resources>
